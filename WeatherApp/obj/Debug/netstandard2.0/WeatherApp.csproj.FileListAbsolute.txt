@@ -1,0 +1,13 @@
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\ref\WeatherApp.dll
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
+D:\MOBILE DEVICE PROJECTS\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
